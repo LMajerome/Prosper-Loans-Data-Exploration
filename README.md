@@ -12,7 +12,7 @@ The dataset can be found [here](https://www.kaggle.com/datasets/shikhar07/prospe
 
 > 25,000-49,999 is the most popular income bracket and employed the most popular income status 
 
-> Relationship between income range and borrower rate
+> Relationship between income range/emplowyment status and interest rate
 
 > Data suggests that employment status and income bracket are significant factors in determining a borrower's interest rate. Sometimes homeownership as well but only in the lower income brackets. 
 
