@@ -1,5 +1,5 @@
 # Prosper Loan Data Analysis
-## by Lynn Majerome
+## by Lynn M.
 
 
 ## Dataset
